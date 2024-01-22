@@ -50,7 +50,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/AlbedoLinguine/AlbedoLinguine/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/AlbedoLinguine/AlbedoLinguine/snake.svg" alt="Snake animation" />
 
 ###
 
