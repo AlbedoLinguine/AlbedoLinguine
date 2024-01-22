@@ -49,7 +49,7 @@
 </div>
 
 ###
-
+<h4 align="left">Activity (Updates every 12 hours, the one that updates instantly should be lower on my profile: </h4>
 <img src="https://raw.githubusercontent.com/AlbedoLinguine/AlbedoLinguine/output/snake.svg" alt="Snake animation" />
 
 ###
