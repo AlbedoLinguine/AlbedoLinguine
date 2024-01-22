@@ -52,7 +52,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AlbedoLinguine&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-<h4 align="left">Activity (Updates every 12 hours, the one that updates instantly should be lower on my profile: </h4>
-<img src="https://raw.githubusercontent.com/AlbedoLinguine/AlbedoLinguine/output/snake.svg" alt="Snake animation" />
-
-
