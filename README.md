@@ -1,4 +1,4 @@
-<h1 align="left">Linguine Co. Profile</h1>
+<h1 align="left">Linguine Co. Profile ⚝</h1>
 
 ###
 
@@ -40,8 +40,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
 </div>
 <p> </p>
-<img align="right" height="200" src="https://imgflip.com/gif/8jywg5"  />
-
 
 ###
 
