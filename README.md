@@ -40,7 +40,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
 </div>
 <p> </p>
+  <img align="right" height="200" src="https://tenor.com/view/linux-tux-rotate-gif-24807752"  />
+
+###
+
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AlbedoLinguine&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=apprentice&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AlbedoLinguine&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=moltack&hide_border=false&order=2&custom_title=Languages%20I've%20Used:" height="170" alt="languages graph"  />
 </div>
 
