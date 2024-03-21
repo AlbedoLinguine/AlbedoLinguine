@@ -40,7 +40,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
 </div>
 <p> </p>
-<div img align="right" height="200" class="tenor-gif-embed" data-postid="24807752" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/linux-tux-rotate-gif-24807752">Linux Tux Sticker</a>from <a href="https://tenor.com/search/linux-stickers">Linux Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<img align="right" height="200" src="https://imgflip.com/gif/8jywg5"  />
 
 ###
 
