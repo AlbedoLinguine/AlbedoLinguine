@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Making cool repositories since forever.<br>📚 I'm currently learning mostly everything but hopefully python in the future.<br>🎯 Goals: program better hopefully<br>❗ I do not do only C#, it might seem like I only do C#, rest assured, those are only imported items into Unity Projects.</p>
+<p align="left">✨ Making cool repositories since forever.<br>📚 I'm currently learning mostly everything I find interesting.<br>🎯 Goals: program better hopefully<br>❗ The languages I note is all the languages I have learned with or created something with.</p>
 
 ###
 
