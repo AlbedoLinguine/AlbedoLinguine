@@ -40,7 +40,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
 </div>
 <p> </p>
-<div style="width:260px;max-width:100%;"><div style="height:0;padding-bottom:115.38%;position:relative;"><iframe width="260" height="300" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameBorder="0" src="https://imgflip.com/embed/8jywg5"></iframe></div><p><a href="https://imgflip.com/gif/8jywg5">via Imgflip</a></p></div>
+<img align="right" height="200" src="https://imgflip.com/gif/8jywg5"  />
+
 
 ###
 
